@@ -1,4 +1,2 @@
 ﻿  Client.cpp
-c:\users\carll\documents\git\polytechnique\tp4reseau\client\client.cpp(123): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
-c:\users\carll\documents\git\polytechnique\tp4reseau\client\client.cpp(138): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
   Client.vcxproj -> C:\Users\carll\Documents\Git\Polytechnique\TP4Reseau\x64\Debug\Client.exe
