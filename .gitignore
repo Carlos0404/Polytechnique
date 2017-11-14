@@ -1,2 +1,12 @@
 
 TP4Reseau/\.vs/TP4Reseau/v15/
+
+TP4Reseau/x64/Debug/
+
+*.tlog
+
+*.obj
+
+TP4Reseau/Client/x64/Debug/
+
+TP4Reseau/Serveur/x64/Debug/
